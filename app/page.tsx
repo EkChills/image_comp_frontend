@@ -1,6 +1,5 @@
 import FileUpload from "@/components/file_upload";
-import { CloudUpload } from "lucide-react";
-import Image from "next/image";
+
 
 export default function Home() {
 
